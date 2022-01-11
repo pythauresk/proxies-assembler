@@ -1,0 +1,9 @@
+/.idea/
+*.pyc
+
+/venv/
+/image_test/
+
+
+test.py
+
